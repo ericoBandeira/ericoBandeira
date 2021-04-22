@@ -25,8 +25,10 @@ Hey, my name is Érico I am gratuating in software engineering at the University
 
 ## &#x1f4c8; GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericoBandeira&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericoBandeira&layout=compact&theme=gotham&custom_title=Statistics)  
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ericoBandeira&show_icons=true&theme=dark&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ericoBandeira&theme=dark">
+</p>
 
 
 Are you interested in starting a project?  <img src="./code-dog.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
