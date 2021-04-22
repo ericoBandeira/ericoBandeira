@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, meu nome é Érico sou graduando na Universidade de Brasília(UnB) apaixonado por desenvolvimento Web e Mobile sempre em busca de aprender mais e mais!
+Hey, my name is Érico I am gratuating in software engineering at the University of Brasilia (UnB) passionate about Web and Mobile development always in search of learning more!
 
 #### 🛠 Languages and tools:<p>
 
@@ -29,8 +29,8 @@ Olá, meu nome é Érico sou graduando na Universidade de Brasília(UnB) apaixon
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericoBandeira&layout=compact&theme=gotham&custom_title=Statistics)  
 
 
-Tem interesse em começar um projeto top?  <img src="./code-dog.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
-Já sabe por onde me chamar 😉
+Are you interested in starting a project?  <img src="./code-dog.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
+You already know how to call me 😉
 
 <a href="https://www.linkedin.com/in/ericobandeira/">
   <img alt="Érico Bandeira LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
