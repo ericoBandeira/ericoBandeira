@@ -1,39 +1,39 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/ericobandeira/">
-  <img align="left" alt="Arunsridher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=ericoBandeira)
-
 Olá, meu nome é Érico sou graduando na Universidade de Brasília(UnB) apaixonado por desenvolvimento Web e Mobile sempre em busca de aprender mais e mais!
 
-### 🛠 &nbsp;Tech Stack
+#### 🛠 Languages and tools:<p>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-<br />
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=javascript)&nbsp;
-![ReactJS](https://img.shields.io/badge/-React.JS-05122A?style=flat&logo=react)&nbsp;
-![React-Native](https://img.shields.io/badge/-React.Native-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-<br />
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![C+](https://img.shields.io/badge/C++-05122A?style=flat&logo=c-sharp&logoColor=FFA518)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![ruby](https://img.shields.io/badge/ruby%20-%23CC0000.svg?&style=for-the-badge&logo=ruby&logoColor=white)
+![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![typecript](https://img.shields.io/badge/typescript%20-%2314354C.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![redis](https://img.shields.io/badge/redis%20-%23CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
+![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
+![github](https://img.shields.io/badge/-github-2D9EA2?&style=for-the-badge&logo=github&logoColor=white) 
+![c++](https://img.shields.io/badge/C++%20-%23CC0000.svg?&style=for-the-badge&logo=c&logoColor=white)
+![c](https://img.shields.io/badge/C%20-%23CC0000.svg?&style=for-the-badge&logo=c&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-05122A?&style=for-the-badge&logo=docker&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericoBandeira&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericoBandeira&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericoBandeira&layout=compact&theme=gotham&custom_title=Statistics)  
 
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericoBandeira&theme=radical" alt="ericoBandeira" /></p>
- 
- <br />
+
+Tem interesse em começar um projeto top?  <img src="./code-dog.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
+Já sabe por onde me chamar 😉
+
+<a href="https://www.linkedin.com/in/ericobandeira/">
+  <img alt="Érico Bandeira LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+<a href="mailto:ericobandeira@hotmail.com">
+  <img alt="Érico Bandeira Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
