@@ -4,11 +4,13 @@ Olá, meu nome é Érico sou graduando na Universidade de Brasília(UnB) apaixon
 
 #### 🛠 Languages and tools:<p>
 
-![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white)
+![ReactNative](https://img.shields.io/badge/ReactNative%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![ruby](https://img.shields.io/badge/ruby%20-%23CC0000.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 ![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![typecript](https://img.shields.io/badge/typescript%20-%2314354C.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis%20-%23CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
