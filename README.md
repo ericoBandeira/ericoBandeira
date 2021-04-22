@@ -20,7 +20,6 @@ Olá, meu nome é Érico sou graduando na Universidade de Brasília(UnB) apaixon
 ![c++](https://img.shields.io/badge/C++%20-%23CC0000.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![c](https://img.shields.io/badge/C%20-%23CC0000.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-05122A?&style=for-the-badge&logo=docker&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
