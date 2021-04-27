@@ -22,6 +22,10 @@ Hey, my name is Érico I am gratuating in software engineering at the University
 ![c++](https://img.shields.io/badge/C++%20-%23CC0000.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![c](https://img.shields.io/badge/C%20-%23CC0000.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-05122A?&style=for-the-badge&logo=markdown&logoColor=white)
+![Node](https://img.shields.io/badge/Node.JS-339933?&style=for-the-badge&logo=node.js&logoColor=white)
+![Latex](https://img.shields.io/badge/Latex-008080?&style=for-the-badge&logo=latex&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
