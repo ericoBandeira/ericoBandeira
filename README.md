@@ -26,6 +26,7 @@ Hey, my name is Érico I am gratuating in software engineering at the University
 ![Node](https://img.shields.io/badge/Node.JS-339933?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Latex](https://img.shields.io/badge/Latex-008080?&style=for-the-badge&logo=latex&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.JS-000000?&style=for-the-badge&logo=next.js&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
