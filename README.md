@@ -41,6 +41,7 @@ You already know how to call me 😉
 <a href="https://www.linkedin.com/in/ericobandeira/">
   <img alt="Érico Bandeira LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:ericobandeira@hotmail.com">
   <img alt="Érico Bandeira Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
