@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey, my name is Érico I am gratuating in software engineering at the University of Brasilia (UnB) passionate about Web and Mobile development always in search of learning more!
+Hey, my name is Érico I am software engineering graduated from the University of Brasilia (UnB) passionate about Web and Mobile development always in search of learning more!
 
 #### 🛠 Languages and tools:<p>
 
